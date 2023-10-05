@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "Avances sobre ODS en la Provincial del Chaco"
+  autor: "Instituto Provincial de Estadística y Ciencia de Datos"
+  chapters:
+    - index.qmd
+    - ods1.qmd
+    - ods2.qmd
+    - ods3.qmd
+    - ods4.qmd
+    - ods8.qmd
+    - ods9.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

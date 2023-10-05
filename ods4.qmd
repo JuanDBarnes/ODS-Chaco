@@ -1,0 +1,31 @@
+![](images/encabezado.png){fig-align="center"}
+
+![](images/ODS%204.PNG)
+
+# 4 Educación de Calidad {.unnumbered}
+
+<div style="text-align: justify">
+
+## Objetivo 4: Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos {.unnumbered}
+
+### Perspectiva Global {.unnumbered}
+
+La educación permite la movilidad socioeconómica ascendente y es clave para salir de la pobreza. Durante la última década, se consiguieron grandes avances a la hora de ampliar el acceso a la educación y las tasas de matriculación en las escuelas en todos los niveles, especialmente para las niñas. No obstante, alrededor de 260 millones de niños aún estaban fuera de la escuela en 2018; cerca de una quinta parte de la población mundial de ese grupo de edad. Además, más de la mitad de todos los niños y adolescentes de todo el mundo no están alcanzando los estándares mínimos de competencia en lectura y matemáticas.
+
+En 2020, a medida que la pandemia de la COVID-19 se propagaba por todo el planeta, la mayor parte de los países anunciaron el cierre temporal de las escuelas, lo que afectó a más del 91 % de los estudiantes en todo el mundo. En abril de 2020, cerca de 1600 millones de niños y jóvenes estaban fuera de la escuela. Igualmente, cerca de 369 millones de niños que dependen de los comedores escolares tuvieron que buscar otras fuentes de nutrición diaria.
+
+> La matriculación en la enseñanza primaria en los países en desarrollo ha alcanzado el 91%, pero 57 millones de niños en edad de escolarización primaria siguen sin asistir a la escuela.
+
+> Más de la mitad de los niños que no están matriculados en la escuela viven en el África Subsahariana.
+
+> 617 millones de jóvenes en el mundo carecen de los conocimientos básicos en aritmética y de un nivel mínimo de alfabetización.
+
+### Perspectiva Local {.unnumbered}
+
+Los indicadores educativos en la provincia para el año 2020 fueron los siguientes:
+
+> **Tasa de Promocion Efectiva** </br> La tasa de promocion efectiva fue del 95,94% en promedio en todos los niveles educativos dentro de la provincia. Fue del 99,55% en nivel primaria y del 91.71 en secundaria.
+
+> **Tasa de Promocion Efectiva** </br> La tasa de promocion efectiva fue del 95,94% en promedio en todos los niveles educativos dentro de la provincia. Fue del 99,55% en nivel primaria y del 91.71 en secundaria.
+
+![](images/pie.png)

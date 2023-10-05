@@ -1,0 +1,37 @@
+![](images/ODS%203.png){width="100%"}
+
+# 3 Salud y Bienestar {.unnumbered}
+
+## Objetivo 3: Garantizar una vida sana y promover el bienestar en todas las edades es esencial para el desarrollo sostenible. {.unnumbered}
+
+<div style="text-align: justify">
+
+### Perspectiva Global {.unnumbered}
+
+Actualmente, el mundo se enfrenta a una crisis sanitaria mundial sin precedentes; la COVID-19 está propagando el sufrimiento humano, desestabilizando la economía mundial y cambiando drásticamente las vidas de miles de millones de personas en todo el mundo.
+
+> Cada día mueren 17.000 niños menos que en 1990, pero más de cinco millones de niños mueren cada año hoy en día antes de cumplir los 5 años.
+
+> La mortalidad materna ha disminuido en un 37% desde 2000.
+
+> En Asia oriental, África septentrional y Asia meridional, la mortalidad materna ha disminuido alrededor de dos tercios.
+
+> El VIH es la principal causa de muerte para las mujeres en edad reproductiva en todo el mundo.
+
+> El sida es ahora la principal causa de muerte entre los adolescentes (de 10 a 19 años) en África y la segunda causa más común de muerte entre los adolescentes en todo el mundo.
+
+### Perspectiva Local {.unnumbered}
+
+Según las información del Departamento de Estadísticas Sanitarias de la Provincia del Chaco se puede contar con los siguientes indicadores:
+
+> **Mortalidad Infantil (Menores de 1 año)** <br> En el año 2021 se produjeron 168 defunciones de menores de 1 años, en términos relativos la tasa de mortalidad infantil para la provincia es de 9.1^0^/~00~ . Esto quiere decir, que casi 9 de cada 1000 niños nacidos, no llegan a cumplir 1 año.
+
+> **Mortalidad en la Niñez (0 a 5 años)** <br> En el año 2021 se produjeron 199 defunciones de menores de 5 años, en términos relativos la tasa de mortalidad infantil para la provincia es de 10.7 ^0^/~00~ . Esto quiere decir, que casi 11 de cada 1000 niños nacidos vivos, no llegan a cumplir 5 años.
+
+> **Mortalidad Materna** <br> En el año 2021 se produjeron 27 defunciones maternas, esto significa una tasa de mortalidad materna del 14.6^0^/~00~.
+
+> **Nacidos Vivos** <br> En el año 2021 se produjeron 18549 nacimientos en la Provincia, esto implica una tasa de natalidad del 15.3^0^/~00~.
+
+<div style="text-align: justify">
+
+![](images/pie.png)

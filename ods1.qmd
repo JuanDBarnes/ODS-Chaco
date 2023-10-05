@@ -1,0 +1,17 @@
+![](images/ODS%201.jpg){fig-align="center" width="100%"}
+
+# 1 Fin de la Pobreza {.unnumbered}
+
+<div style="text-align: justify">
+
+## Objetivo 1: Poner fin al hambre {.unnumbered}
+
+### Perspectiva Global {.unnumbered}
+
+Los efectos de la pandemia de la enfermedad por coronavirus (COVID-19) han hecho retroceder los progresos que se habían realizado de manera constante durante los últimos 25 años en materia de reducción de la pobreza. Este retroceso se ve agravado por el aumento de la inflación y las repercusiones de la guerra en Ucrania. Se estima que la combinación de estas crisis provocará que en 2022 el número de personas que viven en situación de pobreza extrema aumente entre 75 y 95 millones, en comparación con las previsiones anteriores a la pandemia. A medida que las repercusiones económicas de la pandemia comienzan a sentirse con fuerza, resulta cada vez más evidente la importancia de contar con sistemas sólidos de protección social que amparen a la población pobre y vulnerable. A pesar de que en 2020 se introdujeron muchas medidas de protección social nuevas, solo el 47 % de la población mundial se beneficia de al menos un sistema de prestación social monetaria, lo que deja a 4100 millones de personas desprotegidas.
+
+### Perspectiva Local {.unnumbered}
+
+La incidencia de la pobreza en hogares para el primer semestre 2022 fue de 41.6% según las estimaciones del INDEC para el Aglomerado Gran Resistencia. Esto indica una recuperación del ingreso post-pandemia, comparado con el 51.9% de pobreza en el mismo semestre de 2021.
+
+![](images/pie.png)

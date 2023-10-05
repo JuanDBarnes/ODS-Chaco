@@ -1,0 +1,82 @@
+![](images/ODS%209.PNG)
+
+# 9 Industria, Innovación e Infraestructura {.unnumbered}
+
+<div style="text-align: justify">
+
+<div style="text-align: justify">
+
+## Objetivo 9: Construir infraestructura resiliente, promover la industrialización sostenible y fomentar la innovación {.unnumbered}
+
+La industrialización inclusiva y sostenible, junto con la innovación y la infraestructura, pueden dar rienda suelta a las fuerzas económicas dinámicas y competitivas que generan el empleo y los ingresos. Estas desempeñan un papel clave a la hora de introducir y promover nuevas tecnologías, facilitar el comercio internacional y permitir el uso eficiente de los recursos.
+
+### Perspectiva Global {.unnumbered}
+
+Las Naciones Unidas expresa la necesidad de los países menos desarrollados en acelerar el desarrollo de sus sectores manufactureros si desean conseguir la meta de 2030 y aumentar la inversión en investigación e innovación científicas.
+
+El crecimiento del sector manufacturero a nivel mundial ha ido disminuyendo constantemente, incluso antes del brote de la pandemia de la COVID-19. La pandemia está afectando gravemente a las industrias manufactureras y está provocando alteraciones en las cadenas de valor mundiales y en el suministro de productos.
+
+> La infraestructura básica, como las carreteras, las tecnologías de la información y la comunicación, el saneamiento, la energía eléctrica y el agua, sigue siendo escasa en muchos países en desarrollo
+
+> El 16% de la población mundial no tiene acceso a redes de banda ancha móvil.
+
+> El efecto de multiplicación del trabajo de la industrialización tiene un impacto positivo en la sociedad. Cada trabajo en la industriA crea 2,2 empleos en otros sectores.
+
+> En los países en desarrollo, apenas el 30% de la producción agrícola se somete a procesos industriales. En los países de altos ingresos, el 98% se procesa. Esto sugiere que hay grandes oportunidades para los países en desarrollo en materia de agronegocios.
+
+### Perspectiva Local {.unnumbered}
+
+La Provincia ha aumentado la inversión de recurso humano en I+D, para el año 2020 cuenta con 640 investigadores activos. La evolución se puede observar en el siguiente gráfico:
+
+
+```{r, echo= TRUE, include=FALSE}
+library(data.table)
+library(tidyverse)
+library(readxl)
+
+investig <- read_xlsx("datos/rrhh_indicadores_I+D.xlsx")
+investig <- subset(investig, investig$Variable == "Chaco")
+investig <- investig[1,7:25]
+
+investig <- pivot_longer(investig, cols = colnames(investig)[2:18], names_to = "anio", values_to = "n")
+
+setDT(investig)
+investig[,.(anio,n)] -> investig
+invest2020 <- data.table(c(2020),c(640))
+colnames(invest2020) <- colnames(investig)
+investig <- rbind(investig,invest2020)
+investig$n <- as.numeric(investig$n)
+investig$anio <- as.numeric(investig$anio)
+```
+
+```{r, echo=FALSE}
+ggplot(investig, aes(x=anio, y= investig$n)) +
+  geom_area(color="turquoise4",  fill="#69b3a2", alpha=0.4) +
+  geom_line(color="#69b3a2", size=2) +
+  geom_point(size=3, color="#69b3a2") +
+  theme_light() + 
+  labs(x="Año", y="Investigadores", title="Total de Investigadores en la Provincia") +
+  theme(plot.title = element_text(hjust=0.5, size=20, face="bold"))
+
+```
+
+
+
+```{r, echo= TRUE, include=FALSE}
+# manofac <- read_xlsx("datos/Part manofactura.xlsx")
+# setDT(manofac)
+# manofac$part <- as.numeric(manofac$part*100)
+# manofac$anio <- as.numeric(manofac$anio)
+# manofac[, periodo := paste(anio,trim)]
+```
+
+```{r, echo=FALSE}
+# ggplot(manofac, aes(x=periodo, y= part)) +
+#   geom_area(color="turquoise4",  fill="#69b3a2", alpha=0.4) +
+#   theme_light() + 
+#   labs(x="Año", y="Investigadores", title="Total de Investigadores en la Provincia") +
+#   theme(plot.title = element_text(hjust=0.5, size=20, face="bold"))
+
+```
+
+![](images/pie.png)
